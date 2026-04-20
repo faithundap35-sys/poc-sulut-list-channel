@@ -1,1 +1,0 @@
-# poc-sulut-list-channel
