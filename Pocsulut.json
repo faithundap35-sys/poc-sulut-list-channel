@@ -1,1 +1,62 @@
-# poc-sulut-list-channel
+[
+  {
+    "name": "Pilih Channel - Offline",
+    "id": "offline"
+  },
+  {
+    "name": "RAPIDA SULUT",
+    "id": "RAPIDA SULUT"
+  },
+  {
+    "name": "BANKOM RAPI SULUT",
+    "id": "BANKOM RAPI SULUT"
+  },
+  {
+    "name": "RAPI BITUNG",
+    "id": "RAPI BITUNG."
+  },
+  {
+    "name": "RAPI TOMOHON",
+    "id": "RAPI TOMOHON"
+  },
+  {
+    "name": "RAPI MANADO",
+    "id": "RAPI MANADO."
+  },
+  {
+    "name": "RAPI MINAHASA",
+    "id": "RAPI MINAHASA."
+  },
+  {
+    "name": "RAPI KOTAMOBAGU",
+    "id": "RAPI KOTAMOBAGU"
+  },
+  {
+    "name": "RAPI MINSEL",
+    "id": "RAPI MINSEL"
+  },
+  {
+    "name": "RAPI BOLMONG",
+    "id": "RAPI BOLMONG"
+  },
+  {
+    "name": "RAPI BOLTIM",
+    "id": "RAPI BOLTIM"
+  },
+  {
+    "name": "RAPI BOLSEL",
+    "id": "RAPI BOLSEL"
+  },
+  {
+    "name": "RAPI BOLMUT",
+    "id": "RAPI BOLMUT."
+  },
+  {
+    "name": "RAPI SITARO",
+    "id": "RAPI SITARO"
+  },
+  {
+    "name": "BNPB & DAERAH NUSANTARA",
+    "id": "BNPB & DAERAH NUSANTARA"
+  }
+]
